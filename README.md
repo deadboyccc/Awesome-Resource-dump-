@@ -93,3 +93,15 @@ A curated collection of intriguing books, courses, and resources for Computer Sc
 * **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** - *George Orwell* *The classic dystopian novel about surveillance.*
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome! This list is meant to be a living document for the community.
+
+**How to contribute:**
+1.  **Fork** this repository.
+2.  **Clone** your forked repo to your local machine.
+3.  **Add** your resource (Please keep the format consistent!).
+4.  **Push** to your fork and submit a **Pull Request**.
+
+*Please ensure all resources are high-quality. If a resource is paid (e.g., a book), please note it. Free resources are preferred where possible.*
