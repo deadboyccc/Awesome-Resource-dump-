@@ -13,15 +13,23 @@ A curated collection of intriguing books, courses, and resources for Computer Sc
     * [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
     * [6.046J Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
     * [6.0001 Introduction to CS and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    * [6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) - *Advanced and highly respected.*
+* **[University of Helsinki (MOOC.fi)](https://www.mooc.fi/en/)** (Helsinki)  
+    * [Java Programming I & II](https://java-programming.mooc.fi/) - *Industry standard for learning Java properly.*
+    * [Full Stack Open](https://fullstackopen.com/en/) - *Deep dive into modern web development (React, Redux, Node.js).*
 * **[Stanford Online](https://online.stanford.edu/free-content)** (Stanford)  
-    * [Machine Learning (Coursera/Stanford)](https://www.coursera.org/specializations/machine-learning-introduction) - *Andrew Ng’s famous course.*
+    * [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) - *Andrew Ng’s famous course.*
     * [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - *Roughgarden’s rigorous breakdown.*
 * **[NAND to Tetris](https://www.nand2tetris.org/)** (Hebrew University of Jerusalem)  
-    * *Build a modern computer from first principles (logic gates) all the way to a video game (software).*
+    * *Build a modern computer from first principles (logic gates) all the way to a video game.*
+* **[Princeton Algorithms](https://algs4.cs.princeton.edu/home/)** (Princeton/Coursera)  
+    * *Sedgewick & Wayne. Excellent visualization and Java-based examples.*
 
-### **Mathematics**
+### **General Education & Mathematics**
+* **[Khan Academy](https://www.khanacademy.org/)** * *World-class interactive learning for Math, Science, and Computing.*
+* **[Open Textbook Library](https://open.umn.edu/opentextbooks/)** * *Free, peer-reviewed, and open-source textbooks for higher education.*
 * **[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)** (3Blue1Brown)  
-    * *Not a university course, but arguably the best conceptual intro to Linear Algebra available.*
+    * *The best conceptual intro to Linear Algebra available.*
 
 ---
 
@@ -30,67 +38,124 @@ A curated collection of intriguing books, courses, and resources for Computer Sc
 ### **Computer Science & Coding**
 * **[Computerphile](https://www.youtube.com/user/Computerphile)** - *Interviews with professors on everything from sorting algorithms to AI safety.*
 * **[FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)** - *Full-length, ad-free courses on almost every language and framework.*
-* **[Ben Eater](https://www.youtube.com/user/eaterbc)** - *Builds an 8-bit computer from scratch on breadboards. Incredible hardware intuition.*
-* **[The Coding Train](https://www.youtube.com/user/shiffman)** - *Daniel Shiffman teaches creative coding with p5.js. High energy and beginner-friendly.*
-* **[Traversy Media](https://www.youtube.com/user/TechGuyWeb)** - *Practical web development tutorials (HTML, CSS, JS, React, etc.).*
+* **[Ben Eater](https://www.youtube.com/user/eaterbc)** - *Builds an 8-bit computer from scratch. Incredible hardware intuition.*
+* **[The Coding Train](https://www.youtube.com/user/shiffman)** - *Daniel Shiffman teaches creative coding with p5.js.*
+* **[Traversy Media](https://www.youtube.com/user/TechGuyWeb)** - *Practical web development tutorials.*
 * **[Fireship](https://www.youtube.com/c/Fireship)** - *High-intensity code tutorials and "100 Seconds of code" summaries.*
 * **[Sebastian Lague](https://www.youtube.com/c/SebastianLague)** - *Coding adventures, procedural generation, and game dev concepts.*
 * **[NetworkChuck](https://www.youtube.com/c/NetworkChuck)** - *Energetic introductions to networking, hacking, and IT careers.*
+* **[Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)** - *Deep dives into backend engineering and database internals.*
 
 ### **Math & Science**
-* **[3Blue1Brown](https://www.youtube.com/c/3blue1brown)** - *Visual mathematics. The standard for intuitive math explanations.*
-* **[Veritasium](https://www.youtube.com/c/veritasium)** - *Science and engineering videos that often touch on computing concepts.*
-* **[Numberphile](https://www.youtube.com/user/numberphile)** - *Mathematicians exploring numbers and complex problems.*
+* **[3Blue1Brown](https://www.youtube.com/c/3blue1brown)** - *Visual mathematics.*
+* **[Veritasium](https://www.youtube.com/c/veritasium)** - *Science and engineering videos.*
+* **[Numberphile](https://www.youtube.com/user/numberphile)** - *Mathematicians exploring numbers.*
 
 ---
 
-## 📖 Computer Science Books
+## 📖 Programming Languages
 
-### **The "Grokking" Series (Manning)**
-* **[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)** - *Aditya Bhargava* *Illustrated, friendly guide to standard algorithms.*
-* **[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)** - *Andrew W. Trask* *Build neural networks from scratch.*
-* **[Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)** - *Eric Normand* *The philosophy and practice of functional programming.*
-* **[Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)** - *Rishal Hurbans*
-* **[Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)** - *Luis G. Serrano*
-* **[Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)** - *Miguel Morales*
-* **[Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)** - *Josh Fischer & Ning Wang*
+### **Java**
+* **[Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)** - *Joshua Bloch* *Must-read. Best practices for the platform.*
+* **[Java Concurrency in Practice](https://jcip.net/)** - *Brian Goetz* *The bible for multithreaded programming in Java.*
+* **[Core Java (Vol I & II)](https://horstmann.com/corejava/)** - *Cay S. Horstmann* *Comprehensive reference.*
 
-### **Algorithms & Coding Interviews**
-* **[Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - *Cormen, Leiserson, Rivest, Stein* *The "Bible" of algorithms. Rigorous and academic.*
-* **[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)** - *Gayle Laakmann McDowell* *The gold standard for technical interview prep.*
-* **[Algorithms to Live By](https://brian-christian.com/algorithms-to-live-by/)** - *Brian Christian & Tom Griffiths* *The computer science of human decisions.*
-* **[The Algorithm Design Manual](https://www.algorist.com/)** - *Steven Skiena* *War stories and practical problem solving.*
+### **Kotlin**
+* **[Kotlin in Action](https://www.manning.com/books/kotlin-in-action)** - *Dmitry Jemerov & Svetlana Isakova* *Written by the creators of the language.*
+* **[Atomic Kotlin](https://www.atomickotlin.com/)** - *Bruce Eckel & Svetlana Isakova*
 
-### **Systems, Databases & Networking**
-* **[Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)** - *Martin Kleppmann* *The single best book on modern distributed systems and databases.*
-* **[Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)** - *Remzi & Andrea Arpaci-Dusseau* *Free online. Clear and engaging OS textbook.*
-* **[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)** - *Kurose & Ross* *The standard for understanding the internet stack.*
-* **[Operating System Concepts](https://os-book.com/)** - *Silberschatz et al.* *Classic academic text on OS.*
+### **C++**
+* **[A Tour of C++](https://www.stroustrup.com/tour2.html)** - *Bjarne Stroustrup* *Quick overview by the creator of C++.*
+* **[Effective C++](https://www.aristeia.com/books.html)** - *Scott Meyers* *55 specific ways to improve your programs and designs.*
+* **[C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)** - *Lippman, Lajoie, Moo* *The standard comprehensive tutorial.*
 
-### **Software Design & Architecture**
-* **[Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)** - *Gang of Four* *The origin of patterns like Singleton and Factory.*
-* **[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)** - *Freeman et al.* *A visually rich, brain-friendly way to learn patterns.*
-* **[Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780132350884/)** - *Robert C. Martin* *Handbook of agile software craftsmanship.*
+---
 
-### **Foundations & Abstract Math**
-* **[Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)** - *Abelson & Sussman* *Teaches fundamental abstraction via Lisp/Scheme.*
-* **[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics)** - *Donald Knuth, Graham, & Patashnik* *A foundation for computer science mathematics.*
+## 🏗️ Backend, Architecture & Frameworks
+
+### **System Design & Distributed Systems**
+* **[Designing Data-Intensive Applications (DDIA)](https://dataintensive.net/)** - *Martin Kleppmann* *The single best book on modern distributed systems.*
+* **[System Design Interview – An Insider's Guide](https://bytebytego.com/)** - *Alex Xu* *The standard playbook for system design interviews.*
+* **[Distributed Systems](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)** - *Maarten van Steen & Andrew S. Tanenbaum* *Free classic textbook.*
+* **[Building Microservices](https://samnewman.io/books/building_microservices/)** - *Sam Newman* *Holistic view of designing fine-grained systems.*
+
+### **Spring Framework & Spring Boot**
+* **[Spring in Action](https://www.manning.com/books/spring-in-action-sixth-edition)** - *Craig Walls* *Hands-on guide to the core framework.*
+* **[Spring Start Here](https://www.manning.com/books/spring-start-here)** - *Laurentiu Spilca* *Excellent for beginners to grasp the concepts.*
+* **[Pro Spring 5](https://www.apress.com/gp/book/9781484228074)** - *Cosmina et al.* *Deep dive reference.*
+
+### **Domain-Driven Design (DDD)**
+* **[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.domainlanguage.com/ddd/)** - *Eric Evans* *The "Blue Book". The original philosophy.*
+* **[Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)** - *Vaughn Vernon* *The "Red Book". Practical implementation.*
+
+### **Concurrency & Parallelism**
+* **[Seven Concurrency Models in Seven Weeks](https://pragprog.com/titles/pb7con/seven-concurrency-models-in-seven-weeks/)** - *Paul Butcher* *Broad overview of different threading models.*
+* **[C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)** - *Anthony Williams*
+
+---
+
+## 💾 Algorithms, Data Structures & Interviews
+
+### **The "Grokking" Series (Manning & Others)**
+* **[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)** - *Aditya Bhargava* *Illustrated, friendly guide.*
+* **[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)** - *Andrew W. Trask*
+* **[Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)** - *Eric Normand*
+* **[Grokking Coding Interview Patterns](https://www.designgurus.io/course/grokking-the-coding-interview)** - *Design Gurus*
+* **[Grokking System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)** - *Design Gurus*
+
+### **DSA Classics & Interview Prep**
+* **[Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)** - *Cormen, Leiserson, Rivest, Stein* *The "Bible" of algorithms.*
+* **[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)** - *Gayle Laakmann McDowell* *Gold standard for prep.*
+* **[Elements of Programming Interviews (EPI)](https://elementsofprogramminginterviews.com/)** - *Aziz, Lee, Prakash* *Harder and more rigorous than Cracking the Coding Interview.*
+* **[Algorithms to Live By](https://brian-christian.com/algorithms-to-live-by/)** - *Brian Christian & Tom Griffiths*
+* **[The Algorithm Design Manual](https://www.algorist.com/)** - *Steven Skiena*
+
+---
+
+## 🛠️ Databases, OS, Networking & Testing
+
+### **Databases (PostgreSQL & General)**
+* **[The Art of PostgreSQL](https://theartofpostgresql.com/)** - *Dimitri Fontaine* *Treats SQL as code. Excellent.*
+* **[PostgreSQL: Up and Running](https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/)** - *Regina O. Obe*
+* **[Seven Databases in Seven Weeks](https://pragprog.com/titles/rwdata/seven-databases-in-seven-weeks/)** - *Redmond & Wilson*
+
+### **Operating Systems & Networking**
+* **[Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)** - *Remzi & Andrea Arpaci-Dusseau* *Free online. Best modern OS book.*
+* **[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)** - *Kurose & Ross*
+* **[Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)** - *Andrew S. Tanenbaum*
+
+### **Testing & Quality**
+* **[The Art of Unit Testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)** - *Roy Osherove*
+* **[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)** - *Kent Beck*
+* **[Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)** - *Michael Feathers*
+
+---
+
+## 🎨 Design Patterns & Foundations
+
+* **[Design Patterns (Gang of Four)](https://en.wikipedia.org/wiki/Design_Patterns)** - *Erich Gamma et al.*
+* **[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)** - *Freeman et al.*
+* **[Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780132350884/)** - *Robert C. Martin*
+* **[Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)** - *Abelson & Sussman*
+* **[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics)** - *Donald Knuth*
 
 ---
 
 ## 🧠 Productivity & Psychology
 
-* **[Atomic Habits](https://jamesclear.com/atomic-habits)** - *James Clear* *An easy and proven way to build good habits.*
-* **[Deep Work](https://www.calnewport.com/books/deep-work/)** - *Cal Newport* *Rules for focused success in a distracted world.*
-* **[Flow: The Psychology of Optimal Experience](https://www.HarperCollins.com/products/flow-mihaly-csikszentmihalyi)** - *Mihaly Csikszentmihalyi* *The science of complete immersion.*
+* **[Atomic Habits](https://jamesclear.com/atomic-habits)** - *James Clear*
+* **[Deep Work](https://www.calnewport.com/books/deep-work/)** - *Cal Newport*
+* **[Flow: The Psychology of Optimal Experience](https://www.HarperCollins.com/products/flow-mihaly-csikszentmihalyi)** - *Mihaly Csikszentmihalyi*
+* **[The Body Keeps the Score](https://www.besselvanderkolk.com/resources/the-body-keeps-the-score)** - *Bessel van der Kolk* *Seminal work on trauma and the body.*
+* **[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)** - *Daniel Kahneman*
 
 ---
 
 ## 🚀 Fiction (Sci-Fi & Dystopian)
 
-* **[The Martian](https://andyweirauthor.com/books/the-martian/)** - *Andy Weir* *Hard sci-fi about survival on Mars using science.*
-* **[Project Hail Mary](https://andyweirauthor.com/books/project-hail-mary/)** - *Andy Weir* *A lone astronaut must save the earth from disaster.*
-* **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** - *George Orwell* *The classic dystopian novel about surveillance.*
+* **[The Martian](https://andyweirauthor.com/books/the-martian/)** - *Andy Weir*
+* **[Project Hail Mary](https://andyweirauthor.com/books/project-hail-mary/)** - *Andy Weir*
+* **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** - *George Orwell*
 
 ---
 
