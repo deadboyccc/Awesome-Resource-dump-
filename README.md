@@ -114,15 +114,16 @@ A curated collection of intriguing books, courses, and resources for Computer Sc
 
 ## 🛠️ Databases, OS, Networking & Testing
 
+### **Operating Systems & Systems Architecture**
+* **[Computer Systems: A Programmer’s Perspective (CS:APP)](https://csapp.cs.cmu.edu/)** - *Randal E. Bryant & David R. O'Hallaron* *The gold standard for understanding how software interacts with hardware.*
+* **[Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)** - *Remzi & Andrea Arpaci-Dusseau* *Free online. Best modern OS book.*
+* **[Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)** - *Andrew S. Tanenbaum* *Classic academic text.*
+* **[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)** - *Kurose & Ross*
+
 ### **Databases (PostgreSQL & General)**
 * **[The Art of PostgreSQL](https://theartofpostgresql.com/)** - *Dimitri Fontaine* *Treats SQL as code. Excellent.*
 * **[PostgreSQL: Up and Running](https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/)** - *Regina O. Obe*
 * **[Seven Databases in Seven Weeks](https://pragprog.com/titles/rwdata/seven-databases-in-seven-weeks/)** - *Redmond & Wilson*
-
-### **Operating Systems & Networking**
-* **[Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)** - *Remzi & Andrea Arpaci-Dusseau* *Free online. Best modern OS book.*
-* **[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)** - *Kurose & Ross*
-* **[Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)** - *Andrew S. Tanenbaum*
 
 ### **Testing & Quality**
 * **[The Art of Unit Testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)** - *Roy Osherove*
@@ -133,10 +134,10 @@ A curated collection of intriguing books, courses, and resources for Computer Sc
 
 ## 🎨 Design Patterns & Foundations
 
+* **[Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)** - *Harold Abelson & Gerald Jay Sussman* *Known as the "Wizard Book". Teaches fundamental abstraction.*
 * **[Design Patterns (Gang of Four)](https://en.wikipedia.org/wiki/Design_Patterns)** - *Erich Gamma et al.*
 * **[Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)** - *Freeman et al.*
 * **[Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780132350884/)** - *Robert C. Martin*
-* **[Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html)** - *Abelson & Sussman*
 * **[Concrete Mathematics](https://en.wikipedia.org/wiki/Concrete_Mathematics)** - *Donald Knuth*
 
 ---
